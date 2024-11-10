@@ -1,0 +1,17 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+header,
+footer {
+  background-color: #f0d3af;
+  color: white;
+  width: 100%;
+}
+.navigation ul li a:hover {
+  color: #9c6436;
+}
+.footer {
+  text-align: center;
+}
