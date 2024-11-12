@@ -25,6 +25,8 @@
 Вторая иконка из assets/price-50.png и параграф "Description of feature 2."
 Третья иконка из assets/delivery-50.png и параграф "Description of feature 3."
 
+Создайте футер с классом footer, добавьте внутрь параграф с символом копирайта и текстом  "2024 Company Name. All rights reserved".
+
 ## 3 задача
 
 В файле styles/app.css добавьте стили для каждого элемента по описанию:
